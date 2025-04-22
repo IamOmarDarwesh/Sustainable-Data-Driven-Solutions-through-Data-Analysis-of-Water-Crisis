@@ -16,6 +16,45 @@ This integrated approach allowed for a seamless and powerful analysis, driving d
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+💧 Maji Ndogo: Transforming Data into Action — A Journey of Hope and Change
+Welcome to Maji Ndogo, a powerful data-driven initiative tackling one of the world’s most urgent issues—access to clean water. In this multi-part project, SQL, Python, and visualization tools unite to uncover the truth, solve real problems, and empower communities.
+
+
+> 🚀 **Impact at a Glance**  
+> This is just the beginning — more detailed impacts are explored further down.
+
+
+> - 🌍💧 18M+ lives changed.
+✅ More than 18 million people have gained access to clean, safe water, transforming lives, improving health, and creating brighter futures.
+> - 25K+ improvements made to solve all water problems people are struggling with.
+> - A big drop in waterborne diseases and a big reduction in water queue times.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🌍 Project Overview: Sustainable Solutions through Data Analysis
+
+Using a combination of:
+- **SQL + MySQL** for direct data querying, cleaning, and transformation.
+- **Python + Jupyter Notebooks** for interactive analysis and explaining.
+- **Power BI** for impactful storytelling, dashboards, and data visualization.
+
+This project reveals:
+- Water source contamination hotspots  
+- Corruption patterns in quality assessments  
+- Infrastructure failure clusters  
+- Queue time bottlenecks  
+
+And more…
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 ## Transforming Maji Ndogo: A Data-Driven Revolution in Water Access
 
 In the heart of Maji Ndogo, a community on the brink of collapse due to a severe water crisis, a groundbreaking project unfolded—one that would forever change the lives of its residents. Armed with a vast dataset of over 60,000 records, I embarked on a mission to uncover the hidden truths behind the water shortages, corruption, and broken infrastructure that plagued the region.
@@ -74,9 +113,9 @@ Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the dai
 
 #### Part of Outcomes:
 
-- 30,000 people gained access to clean water.
+- Millions of people gained access to clean water.
   
-- 20,000 residents benefited from repaired infrastructure.
+- Lots of residents benefited from the repaired infrastructure.
   
 - 40% reduction in waterborne diseases.
   
@@ -106,6 +145,27 @@ Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the dai
 - In the story, I delve into the challenges faced by Maji Ndogo and the transformative impact of data-driven solutions on the community's access to clean water. 
 
 - This comprehensive overview provides context on how I used SQL, Python, and advanced analytics to uncover critical issues and implement actionable solutions that significantly improved the quality of life for thousands of residents.
+
+
+
+## 🧭 Navigate All Project Parts
+
+Each part includes:
+- 🔗 A **Medium article** for in-depth storytelling and explanation  
+- 📊 A **Power BI Dashboard** for interactive insights
+
+| Part | Medium Story | Power BI Dashboard |
+|------|--------------|--------------------|
+| **🔹 Overview** | [Maji Ndogo: A Journey of Hope and Change](https://medium.com/@IamOmarDarwesh/maji-ndogo-transforming-data-into-action-a-journey-of-hope-and-change-33237bd84609)  |
+| **Part 1** | [Visualizing the Currents of Change — Part 1](https://medium.com/@IamOmarDarwesh/maj-ndogo-visualizing-the-currents-of-change-in-maj-ndogo-part-1-8f2db3fb3611) | [Dashboard Part 1](https://app.powerbi.com/view?r=eyJrIjoiZmRiODJiZjYtYTA3Mi00ODFjLThmMWYtY2QxZDY4NWI1YzJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) |
+| **Part 2** | [Visualizing the Currents of Change — Part 2](https://medium.com/@IamOmarDarwesh/maji-ndogo-visualizing-the-currents-of-change-in-maji-ndogo-part-2-40baea48bbf2) | [Dashboard Part 2](https://app.powerbi.com/view?r=eyJrIjoiZDAzZGVjZDAtMDBhYy00ZWI2LTkyOWUtMmFkNGM3ODc3NzZkIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) |
+| **Part 3** | [Visualizing the Currents of Change — Part 3](https://medium.com/@IamOmarDarwesh/maji-ndogo-visualizing-the-currents-of-change-in-maji-ndogo-part-3-30c478d03231) | [Dashboard Part 3](https://app.powerbi.com/view?r=eyJrIjoiNzdmYjFlNmYtMmIxYi00MTdkLWEwMTAtZDFhMWVkNDU1MWZiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) |
+| **Part 4** | [Visualizing the Currents of Change — Part 4](https://medium.com/your-part4-link) | [Dashboard Part 4](https://app.powerbi.com/view?r=eyJrIjoiNmQ5Zjc3NTctMmU3NC00ZjA5LWE1ZjktNDhlM2M1ZjIxNDQ2IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) |
+| **Part 5** | [Visualizing the Currents of Change — Part 5](https://medium.com/your-part5-link) | [Dashboard Part 5](https://app.powerbi.com/view?r=eyJrIjoiZjFhMmI0OWEtMWU5Yi00YmE0LWE1ZjAtZWJmNGJiNjQzYTQwIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9) |
+
+
+
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -151,4 +211,23 @@ Maji Ndogo’s water crisis was a multifaceted problem, deeply affecting the dai
 
 
 
+---
+
+## 🔄 Ongoing Impact & Future Plans
+
+- Real-time monitoring for sustainable infrastructure  
+- Community-driven maintenance for longevity  
+- Expansion of clean water access to 100% in 5 years
+
+---
+
+## 💬 Let’s Connect!
+
+**Have feedback or want to collaborate?**  
+Feel free to reach out or follow along on [LinkedIn](https://www.linkedin.com/in/iamomardarwesh/) or [Email](mailto:omarelsayeddarwesh@gmail.com).
+
+
+---
+
+*This isn’t just a project—it’s a movement toward justice, health, and equity through the lens of data.*
 
