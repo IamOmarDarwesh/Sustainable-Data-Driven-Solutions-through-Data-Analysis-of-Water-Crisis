@@ -185,6 +185,21 @@ Each part includes:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![Screenshot 2025-04-23 182147](https://github.com/user-attachments/assets/5a8f4ece-7995-4eae-8523-d0c118cfb2eb)
+
+![Screenshot 2025-04-23 182410](https://github.com/user-attachments/assets/9babf957-f168-4dc2-a1cd-a27d7d92f3fd)
+
+
+![Screenshot 2025-04-23 184753](https://github.com/user-attachments/assets/4b378b58-e1a9-41cd-8e1d-228598236b50)
+
+![Screenshot 2025-04-23 184842](https://github.com/user-attachments/assets/5212ef86-c754-4e79-9637-f5c301ae3d50)
+
+![Screenshot 2025-04-23 185205](https://github.com/user-attachments/assets/c78f86b4-787f-4c0d-a65e-ae05f0011a58)
+
+
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Engaging with Sustainable-Data-Driven-Solutions-through-Data-Analysis-of-Water-Crisis Project
