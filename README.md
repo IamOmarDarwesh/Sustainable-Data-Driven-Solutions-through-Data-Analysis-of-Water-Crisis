@@ -4,6 +4,9 @@
 
 ## A transformative SQL-driven analysis of Maji Ndogo's water crisis, turning data into actionable insights for a better future.
 
+
+A data-driven project using SQL, Python, and Power BI to tackle Maji Ndogo’s water crisis. By analyzing 60,000+ records, we uncovered contamination hotspots, corruption, and infrastructure failures—leading to real solutions like new wells, repairs, and reduced wait times. The result? Clean water for 18M+ people. Data turned into impact.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 💧 Maji Ndogo: Transforming Data into Action — A Journey of Hope and Change
