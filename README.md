@@ -64,7 +64,7 @@ And more…
 
 ## Transforming Maji Ndogo: A Data-Driven Revolution in Water Access
 
-In the heart of Maji Ndogo, a community on the brink of collapse due to a severe water crisis, a groundbreaking project unfolded—one that would forever change the lives of its residents. Armed with a vast dataset of over 60,000 records, I embarked on a mission to uncover the hidden truths behind the water shortages, corruption, and broken infrastructure that plagued the region.
+In the heart of Maji Ndogo, a community on the brink of collapse due to a severe water crisis, a groundbreaking project unfolded—one that would forever change the lives of its residents. Armed with a vast dataset, I embarked on a mission to uncover the hidden truths behind the water shortages, corruption, and broken infrastructure that plagued the region.
 
 
 ### A Quick Glimpse of Crisis and Challenges: Unveiling the Reality
